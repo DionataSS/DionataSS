@@ -7,7 +7,7 @@
  
  🌱 Estudante de Licenciatura em Computação na UFRGS
  
- 🤔 Estudante de Programação na Alura do curso Oracle Next Education
+ 🤔 Estudante de Programação na Oracle Next Education
  
 
  
@@ -29,6 +29,10 @@
 </div>
   
   ##
+
+ 
+ 
+ 
  
 <div> 
  <a href = "mailto:dionata@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
