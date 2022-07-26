@@ -1,23 +1,22 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Dionata Silveira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-### Olá!!!👋 Me chamo Dionata, aqui está um pouco da minha aprendizagem! Espero que gostem!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Dionata+Silveira;I+from+Brasil,+RS;I+study+computing+at+UFRGS;and+study+programming+at+UFRGS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DionataSS&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Dionata Silveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionataSS&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
- 🔭 Experiência em Suporte Técnico e Analista de Suporte
- 
- 🌱 Estudante de Licenciatura em Computação na UFRGS
- 
- 🤔 Estudante de Programação na Oracle Next Education
- 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=DionataSS&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DionataSS&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
  
 </div> 
 
-<div align="center">
-  <a href="https://github.com/DionataSS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DionataSS&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionataSS&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
 
 
 <div style="display: inline_block"><br>
