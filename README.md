@@ -3,13 +3,14 @@
 ### Olá!!!👋 Me chamo Dionata, aqui está um pouco da minha aprendizagem! Espero que gostem!
 
 
- 🔭 I’m currently working on Support Analyst
+ 🔭 Experiência em Suporte Técnico e Analista de Suporte
  
- 🌱 I’m currently learning Python/Javascript/Html/Css
+ 🌱 Estudante de Licenciatura em Computação na UFRGS
  
- 👯 I’m looking to collaborate on support
+ 🤔 Estudante de Programação na Alura do curso Oracle Next Education
  
- 🤔 I’m looking for help with Python
+
+ 
 </div> 
 
 <div align="center">
