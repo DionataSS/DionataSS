@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá!!!👋 Me chamo Dionata, aqui está um pouco de minha aprendizagem! Espero que gostem!
+
 
  🔭 I’m currently working on Support Analyst
  
