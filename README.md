@@ -1,4 +1,4 @@
-### Olá!!!👋 Me chamo Dionata, aqui está um pouco de minha aprendizagem! Espero que gostem!
+### Olá!!!👋 Me chamo Dionata, aqui está um pouco da minha aprendizagem! Espero que gostem!
 
 
  🔭 I’m currently working on Support Analyst
@@ -10,7 +10,5 @@
  🤔 I’m looking for help with Python
  
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DionataSS&show_icons=true&theme=highcontrast)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionataSS)](https://github.com/DionataSS/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DionataSS&show_icons=true&theme=highcontrast)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionataSS)](https://github.com/DionataSS/github-readme-stats)
  
