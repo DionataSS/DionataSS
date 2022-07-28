@@ -60,6 +60,15 @@
 
 ## Feel free to create, edit and delete any file. Enjoy!
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  </div>
+  
+  ##
+
 ![CRUD](https://github.com/DionataSS/CRUD-V1/blob/master/crudvideo.gif)
 
 Link:
@@ -75,6 +84,15 @@ https://dionatass.github.io/CRUD-V1/
 
 ## Simulate an account and have fun!
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  </div>
+  
+  ##
+
 ![NETFLIX](https://github.com/DionataSS/Login-NETFLIX/blob/master/netflix.gif)
 
 Link:
@@ -89,6 +107,15 @@ https://dionatass.github.io/Login-NETFLIX/
 ## Naruto themed memory game made with HTML / JavaScript / CSS
 
 ## Enter your name and make your score. Enjoy!!!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  </div>
+  
+  ##
 
 ![Naruto gif](https://github.com/DionataSS/memory-game/blob/main/images/narutovideo.gif)
 
