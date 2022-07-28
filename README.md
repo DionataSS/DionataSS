@@ -48,3 +48,51 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+##
+
+## Some projects:
+##
+
+
+
+## Crud made with HTML / JavaScript / CSS and use Local Storage 
+
+## Feel free to create, edit and delete any file. Enjoy!
+
+![CRUD](https://github.com/DionataSS/CRUD-V1/blob/master/crudvideo.gif)
+
+Link:
+https://dionatass.github.io/CRUD-V1/
+
+
+##
+##
+##
+
+
+## Netflix page recreated with HTML / JavaScript / CSS
+
+## Simulate an account and have fun!
+
+![NETFLIX](https://github.com/DionataSS/Login-NETFLIX/blob/master/netflix.gif)
+
+Link:
+https://dionatass.github.io/Login-NETFLIX/
+
+
+##
+##
+##
+
+
+## Naruto themed memory game made with HTML / JavaScript / CSS
+
+## Enter your name and make your score. Enjoy!!!
+
+![Naruto gif](https://github.com/DionataSS/memory-game/blob/main/images/narutovideo.gif)
+
+Link:
+https://dionatass.github.io/memory-game-naruto/
+
+##
