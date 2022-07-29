@@ -120,6 +120,6 @@ https://dionatass.github.io/Login-NETFLIX/
 ![Naruto gif](https://github.com/DionataSS/memory-game/blob/main/images/narutovideo.gif)
 
 Link:
-https://dionatass.github.io/memory-game-naruto/
+https://dionatass.github.io/memory-game/
 
 ##
