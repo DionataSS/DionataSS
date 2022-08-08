@@ -49,9 +49,10 @@
 ##
 
 ## Some projects:
+
 ##
-
-
+##
+##
 
 ## Crud made with HTML / JavaScript / CSS and use Local Storage 
 
@@ -77,6 +78,27 @@ https://dionatass.github.io/CRUD-V1/
 ##
 
 
+## My portfolio made in WORDPRESS
+
+## Get to know some of my work!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+          
+  </div>
+  
+  ##
+
+![SITE](https://github.com/DionataSS/DionataSS/blob/main/gifsite.gif)
+
+Link:
+https://canfly.website/
+
+
+##
+##
+##
+
 ## Netflix page recreated with HTML / JavaScript / CSS
 
 ## Simulate an account and have fun!
@@ -95,11 +117,9 @@ https://dionatass.github.io/CRUD-V1/
 Link:
 https://dionatass.github.io/Login-NETFLIX/
 
-
 ##
 ##
 ##
-
 
 ## Naruto themed memory game made with HTML / JavaScript / CSS
 
